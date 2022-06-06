@@ -1,11 +1,11 @@
-Coca Cola
-Danone
-Fonterra
-General Mills
-Johnson & Johnson
-Kraft
-Mars
-Mondelez
-Nestle
-PepsiCo
-Unilever
+Coca Cola,https://github.com/midoen96/buyalize/blob/main/food/CocaCola.png
+Danone,https://github.com/midoen96/buyalize/blob/main/food/Danone.png
+Fonterra,https://github.com/midoen96/buyalize/blob/main/food/Fonterra.png
+General Mills,https://github.com/midoen96/buyalize/blob/main/food/GeneralMills.png
+Johnson & Johnson,https://github.com/midoen96/buyalize/blob/main/food/Johnson.png
+Kraft,https://github.com/midoen96/buyalize/blob/main/food/Kraft.png
+Mars,https://github.com/midoen96/buyalize/blob/main/food/Mars.png
+Mondelez,https://github.com/midoen96/buyalize/blob/main/food/Mondelez.png
+Nestle,https://github.com/midoen96/buyalize/blob/main/food/Nestle.png
+PepsiCo,https://github.com/midoen96/buyalize/blob/main/food/PepsiCo.png
+Unilever,https://github.com/midoen96/buyalize/blob/main/food/Unilever.png
