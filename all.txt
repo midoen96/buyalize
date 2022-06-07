@@ -1,1 +1,2 @@
-beauty,food
+https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/brands.txt
+https://raw.githubusercontent.com/midoen96/buyalize/main/food/brands.txt
