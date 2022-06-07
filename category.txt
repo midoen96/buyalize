@@ -4,4 +4,3 @@ clothes,https://github.com/midoen96/buyalize/raw/main/images/clothes.png
 food,https://github.com/midoen96/buyalize/raw/main/images/food.png
 personal care,https://github.com/midoen96/buyalize/raw/main/images/care.png
 restaurants,https://github.com/midoen96/buyalize/raw/main/images/restaurant.png
-sss,https://github.com/midoen96/buyalize/raw/main/images/restaurant.png
