@@ -1,0 +1,6 @@
+beauty,
+cleaning,
+clothes,
+food,
+personal care,
+restaurants,
