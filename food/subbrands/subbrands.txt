@@ -1,1 +1,1 @@
-Coca Cola,AdeS,https://github.com/midoen96/buyalize/raw/main/food/subbrands/Ades.png
+Coca Cola,AdeS,https://github.com/midoen96/buyalize/raw/main/food/subbrands/CocaCola/Ades.png
