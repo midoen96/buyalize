@@ -1,1 +1,4 @@
+Estēe Lauder,https://github.com/midoen96/buyalize/raw/main/beauty/Est%C4%93e%20Lauder.png
+L'Oréal,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/L'Or%C3%A9al.png
+L'brands,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/L'brands.png
 Revlon,https://github.com/midoen96/buyalize/raw/main/beauty/Revlon.png
