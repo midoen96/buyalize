@@ -1,1 +1,1 @@
-P&G,https://github.com/midoen96/buyalize/raw/main/cleaning/p%26g.png
+P & G,https://github.com/midoen96/buyalize/raw/main/cleaning/p%26g.png
