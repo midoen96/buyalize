@@ -1,1 +1,4 @@
-P & G,https://github.com/midoen96/buyalize/raw/main/cleaning/p%26g.png
+Henkel,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/Henkel.png
+Kimberly Clark,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/Kimberly%20Clark.png
+P & G,https://github.com/midoen96/buyalize/raw/main/cleaning/P%26G.png
+Unilever,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/Unilever.png
