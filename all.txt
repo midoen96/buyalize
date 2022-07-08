@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/brands.txt
 https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/brands.txt
+https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/brands.txt
 https://raw.githubusercontent.com/midoen96/buyalize/main/food/brands.txt
