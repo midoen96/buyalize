@@ -1,1 +1,2 @@
 Delta Galil,https://github.com/midoen96/buyalize/raw/main/clothes/Delta%20Galil.png
+L'brands,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/L'brands.png
