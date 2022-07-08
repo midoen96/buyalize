@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/brands.txt
 https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/brands.txt
 https://raw.githubusercontent.com/midoen96/buyalize/main/food/brands.txt
 https://raw.githubusercontent.com/midoen96/buyalize/main/personal%20care/brands.txt
+https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/brands.txt
