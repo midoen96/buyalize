@@ -7,7 +7,7 @@ Costa Coffee,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurant
 Domino's Pizza,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Domino's%20Pizza.png
 Eddie V's,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Eddie%20V's.png
 Espresso House,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Espresso%20House.png
-JDE Peet's,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/JDE%20P 's.png
+JDE Peet's,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/JDE%20Peet's.png
 KFC,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/KFC.png
 Keurig Dr Pepper,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Keurig%20Dr%20Pepper.png
 Krispy Kreme,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Krispy%20Kreme.png
