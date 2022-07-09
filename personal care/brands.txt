@@ -1,1 +1,4 @@
+GSK,https://raw.githubusercontent.com/midoen96/buyalize/main/personal%20care/GSK.png
+Henkel,https://raw.githubusercontent.com/midoen96/buyalize/main/personal%20care/Henkel.png
 Johnson & Johnson,https://github.com/midoen96/buyalize/raw/main/personal%20care/Johnson.png
+Unilever,https://raw.githubusercontent.com/midoen96/buyalize/main/personal%20care/Unilever.png
