@@ -1,1 +1,25 @@
-
+Estēe Lauder,Aerin,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Aerin.png
+Estēe Lauder,Aramis,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Aramis.png
+Estēe Lauder,Aveda,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Aveda.png
+Estēe Lauder,Becca,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Becca.png
+Estēe Lauder,Bobbi Brown,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Bobbi%20Brown.png
+Estēe Lauder,Bumble and Bumble,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Bumble%20and%20Bumble.png
+Estēe Lauder,Clinique,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Clinique.png
+Estēe Lauder,Darphin,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Darphin.png
+Estēe Lauder,Dr. Jart+,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Dr.%20Jart%2B.png
+Estēe Lauder,Federic Malle,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Editions%20De%20Parfums%20Federic%20Malle.png
+Estēe Lauder,Ermenegildo Zegna,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Ermenegildo%20Zegna.png
+Estēe Lauder,Glam Glow,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Glam%20Glow.png
+Estēe Lauder,Jo Malone,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Jo%20Malone.png
+Estēe Lauder,Kilian,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Kilian.png
+Estēe Lauder,La Mer,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/La%20Mer.png
+Estēe Lauder,Lab Series,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Lab%20Series.png
+Estēe Lauder,Le Labo,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Le%20Labo.png
+Estēe Lauder,M.A.C,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/M.A.C.png
+Estēe Lauder,Michael Kors,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Michael%20Kors.png
+Estēe Lauder,Origins,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Origins.png
+Estēe Lauder,Rodin,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Rodin.png
+Estēe Lauder,Smashbox,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Smashbox.png
+Estēe Lauder,Tom Ford Beauty,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Tom%20Ford%20Beauty.png
+Estēe Lauder,Tommy Hilfiger,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Tommy%20Hilfiger.png
+Estēe Lauder,Too Faced,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Too%20Faced.png
