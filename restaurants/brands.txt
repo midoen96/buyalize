@@ -1,1 +1,27 @@
 Bahama Breeze,https://github.com/midoen96/buyalize/raw/main/restaurants/Bahama%20Breeze.png
+Bennigan's,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Bennigan's.png
+Burger King,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Burger%20King.png
+Caribou,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Caribou.png
+Cheddar's,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Cheddar's.png
+Costa Coffee,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Costa%20Coffee.png
+Domino's Pizza,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Domino's%20Pizza.png
+Eddie V's,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Eddie%20V's.png
+Espresso House,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Espresso%20House.png
+JDE Peet's,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/JDE%20P 's.png
+KFC,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/KFC.png
+Keurig Dr Pepper,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Keurig%20Dr%20Pepper.png
+Krispy Kreme,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Krispy%20Kreme.png
+Long Horn,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Long%20Horn.png
+McDonald's,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/McDonald's.png
+Olive Garden,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Olive%20Garden.png
+Panera,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Panera.png
+Pizza Hut,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Pizza%20Hut.png
+Popeyes,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Popeyes.png
+Pret,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Pret.png
+Seasons 52,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Seasons%2052.png
+Shake Shack,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Shake%20Shack.png
+Starbucks Coffee,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Starbucks%20Coffee.png
+Taco Bell,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Taco%20Bell.png
+The Capital Grille,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/The%20Capital%20Grille.png
+Tim Hortons,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Tim%20Hortons.png
+Yard House,https://raw.githubusercontent.com/midoen96/buyalize/main/restaurants/Yard%20House.png
