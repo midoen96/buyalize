@@ -6,6 +6,7 @@ Estēe Lauder,Bobbi Brown,https://raw.githubusercontent.com/midoen96/buyalize/ma
 Estēe Lauder,Bumble and Bumble,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Bumble%20and%20Bumble.png
 Estēe Lauder,Clinique,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Clinique.png
 Estēe Lauder,Darphin,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Darphin.png
+Estēe Lauder,Donna Karen,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Donna%20Karan.png
 Estēe Lauder,Dr. Jart+,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Dr.%20Jart%2B.png
 Estēe Lauder,Federic Malle,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Editions%20De%20Parfums%20Federic%20Malle.png
 Estēe Lauder,Ermenegildo Zegna,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Ermenegildo%20Zegna.png
