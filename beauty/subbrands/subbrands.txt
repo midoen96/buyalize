@@ -24,3 +24,6 @@ Estēe Lauder,Smashbox,https://raw.githubusercontent.com/midoen96/buyalize/main/
 Estēe Lauder,Tom Ford Beauty,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Tom%20Ford%20Beauty.png
 Estēe Lauder,Tommy Hilfiger,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Tommy%20Hilfiger.png
 Estēe Lauder,Too Faced,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Too%20Faced.png
+L'brands,Bath & Body Works,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'brands/Bath%20%26%20Body%20Works.png
+L'brands,Pink Victoria's Secret,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'brands/Pink%20Victoria's%20Secret.png
+L'brands,Victoria's Secret,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'brands/Victoria's%20Secret.png
