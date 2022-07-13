@@ -71,10 +71,10 @@ Revlon,Alfred Sung,https://raw.githubusercontent.com/midoen96/buyalize/main/beau
 Revlon,All Saints,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/All%20Saints.png
 Revlon,Almay,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Almay.png
 Revlon,American Crew,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/American%20Crew.png
-Revlon,Britney Spears Fragrance,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Britney%20Spears%20Fragrance.png
+Revlon,Britney Spears,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Britney%20Spears%20Fragrance.png
 Revlon,CND,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/CND.png
 Revlon,Charlie,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Charlie.png
-Revlon,Christina Aguilera Fragrance,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Christina%20Aguilera%20Fragrance.png
+Revlon,Christina Aguilera,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Christina%20Aguilera%20Fragrance.png
 Revlon,Creme of Nature,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Creme%20of%20Nature.png
 Revlon,Curve,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Curve.png
 Revlon,Cutex,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Cutex.png
