@@ -66,3 +66,38 @@ L'Oréal,Vichy,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/s
 L'Oréal,Viktor % Rolf,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Viktor%20%26%20Rolf.png
 L'Oréal,YueSai,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/YueSai.png
 L'Oréal,Yves Saint Laurent,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Yves%20Saint%20Laurent.png
+
+Revlon,Alfred Sung,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Alfred%20Sung.png
+Revlon,All Saints,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/All%20Saints.png
+Revlon,Almay,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Almay.png
+Revlon,American Crew,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/American%20Crew.png
+Revlon,Britney Spears Fragrance,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Britney%20Spears%20Fragrance.png
+Revlon,CND,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/CND.png
+Revlon,Charlie,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Charlie.png
+Revlon,Christina Aguilera Fragrance,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Christina%20Aguilera%20Fragrance.png
+Revlon,Creme of Nature,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Creme%20of%20Nature.png
+Revlon,Curve,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Curve.png
+Revlon,Cutex,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Cutex.png
+Revlon,Dfi,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Dfi.png
+Revlon,Ed Hardy,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Ed%20Hardy.png
+Revlon,Eksperience,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Eksperience.png
+Revlon,Elizabeth Adren,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Elizabeth%20Adren.png
+Revlon,Flesh,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Flesh.png
+Revlon,Gatineau,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Gatineau.png
+Revlon,Giorgio,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Giorgio.png
+Revlon,Grey Flannel,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Grey%20Flannel.png
+Revlon,Halston,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Halston.png
+Revlon,Intercosmo,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Intercosmo.png
+Revlon,Jean Nate,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Jean%20Nate.png
+Revlon,Jennifer Aniston,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Jennifer%20Aniston.png
+Revlon,John Varvatos,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/John%20Varvatos.png
+Revlon,Juicy Couture,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Juicy%20Couture.png
+Revlon,Lucky Brand,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Lucky%20Brand.png
+Revlon,Mariah Carey,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Mariah%20Carey.png
+Revlon,Mitchum,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Mitchum.png
+Revlon,Natural Honey,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Natural%20Honey.png
+Revlon,Orofluido,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Orofluido.png
+Revlon,Pure Ice,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Pure%20Ice.png
+Revlon,Sinful Colors,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Sinful%20Colors.png
+Revlon,The Elizabeth Taylor,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/The%20Elizabeth%20Taylor.png
+Revlon,Wild Fox,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Wild%20Fox.png
