@@ -1,1 +1,14 @@
-
+Henkel,Clin,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Clin.png
+Henkel,Combat,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Combat.png
+Henkel,Dac,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Dac.png
+Henkel,Der General,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Der%20General.png
+Henkel,Dixi,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Dixi.png
+Henkel,Iba,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Iba.png
+Henkel,Lysoform,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Lysoform.png
+Henkel,Persil,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Persil.png
+Henkel,Perwoll,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Perwoll.png
+Henkel,Pril,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Pril.png
+Henkel,Renuzit,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Renuzit.png
+Henkel,Somat,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Somat.png
+Henkel,Vernel,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Vernel.png
+Henkel,Vigor,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Vigor.png
