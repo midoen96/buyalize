@@ -84,7 +84,7 @@ Revlon,Eksperience,https://raw.githubusercontent.com/midoen96/buyalize/main/beau
 Revlon,Elizabeth Adren,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Elizabeth%20Adren.png
 Revlon,Flesh,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Flesh.png
 Revlon,Gatineau,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Gatineau.png
-Revlon,Giorgio,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Giorgio.png
+Revlon,Giorgio,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Giorgioo.png
 Revlon,Grey Flannel,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Grey%20Flannel.png
 Revlon,Halston,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Halston.png
 Revlon,Intercosmo,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Intercosmo.png
