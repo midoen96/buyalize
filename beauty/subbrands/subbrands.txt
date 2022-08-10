@@ -1,103 +1,103 @@
-Estēe Lauder,Aerin,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Aerin.png
-Estēe Lauder,Aramis,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Aramis.png
-Estēe Lauder,Aveda,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Aveda.png
-Estēe Lauder,Becca,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Becca.png
-Estēe Lauder,Bobbi Brown,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Bobbi%20Brown.png
-Estēe Lauder,Bumble and Bumble,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Bumble%20and%20Bumble.png
-Estēe Lauder,Clinique,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Clinique.png
-Estēe Lauder,Darphin,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Darphin.png
-Estēe Lauder,Donna Karen,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Donna%20Karan.png
-Estēe Lauder,Dr. Jart+,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Dr.%20Jart%2B.png
-Estēe Lauder,Federic Malle,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Editions%20De%20Parfums%20Federic%20Malle.png
-Estēe Lauder,Ermenegildo Zegna,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Ermenegildo%20Zegna.png
-Estēe Lauder,Glam Glow,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Glam%20Glow.png
-Estēe Lauder,Jo Malone,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Jo%20Malone.png
-Estēe Lauder,Kilian,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Kilian.png
-Estēe Lauder,La Mer,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/La%20Mer.png
-Estēe Lauder,Lab Series,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Lab%20Series.png
-Estēe Lauder,Le Labo,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Le%20Labo.png
-Estēe Lauder,M.A.C,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/M.A.C.png
-Estēe Lauder,Michael Kors,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Michael%20Kors.png
-Estēe Lauder,Origins,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Origins.png
-Estēe Lauder,Rodin,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Rodin.png
-Estēe Lauder,Smashbox,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Smashbox.png
-Estēe Lauder,Tom Ford Beauty,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Tom%20Ford%20Beauty.png
-Estēe Lauder,Tommy Hilfiger,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Tommy%20Hilfiger.png
-Estēe Lauder,Too Faced,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Too%20Faced.png
+Estēe Lauder,Aerin,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Aerin.png^
+Estēe Lauder,Aramis,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Aramis.png^
+Estēe Lauder,Aveda,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Aveda.png^
+Estēe Lauder,Becca,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Becca.png^
+Estēe Lauder,Bobbi Brown,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Bobbi%20Brown.png^
+Estēe Lauder,Bumble and Bumble,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Bumble%20and%20Bumble.png^
+Estēe Lauder,Clinique,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Clinique.png^
+Estēe Lauder,Darphin,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Darphin.png^
+Estēe Lauder,Donna Karen,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Donna%20Karan.png^
+Estēe Lauder,Dr. Jart+,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Dr.%20Jart%2B.png^
+Estēe Lauder,Federic Malle,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Editions%20De%20Parfums%20Federic%20Malle.png^
+Estēe Lauder,Ermenegildo Zegna,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Ermenegildo%20Zegna.png^
+Estēe Lauder,Glam Glow,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Glam%20Glow.png^
+Estēe Lauder,Jo Malone,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Jo%20Malone.png^
+Estēe Lauder,Kilian,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Kilian.png^
+Estēe Lauder,La Mer,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/La%20Mer.png^
+Estēe Lauder,Lab Series,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Lab%20Series.png^
+Estēe Lauder,Le Labo,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Le%20Labo.png^
+Estēe Lauder,M.A.C,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/M.A.C.png^
+Estēe Lauder,Michael Kors,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Michael%20Kors.png^
+Estēe Lauder,Origins,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Origins.png^
+Estēe Lauder,Rodin,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Rodin.png^
+Estēe Lauder,Smashbox,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Smashbox.png^
+Estēe Lauder,Tom Ford Beauty,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Tom%20Ford%20Beauty.png^
+Estēe Lauder,Tommy Hilfiger,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Tommy%20Hilfiger.png^
+Estēe Lauder,Too Faced,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Est%C4%93e%20Lauder/Too%20Faced.png^
 
-L'brands,Bath & Body Works,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'brands/Bath%20%26%20Body%20Works.png
-L'brands,Pink Victoria's Secret,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'brands/Pink%20Victoria's%20Secret.png
-L'brands,Victoria's Secret,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'brands/Victoria's%20Secret.png
+L'brands,Bath & Body Works,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'brands/Bath%20%26%20Body%20Works.png^
+L'brands,Pink Victoria's Secret,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'brands/Pink%20Victoria's%20Secret.png^
+L'brands,Victoria's Secret,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'brands/Victoria's%20Secret.png^
 
-L'Oréal,3CE,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/3CE.png
-L'Oréal,Atelier Cologne,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Atelier%20Cologne.png
-L'Oréal,Azzaro,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Azzaro.png
-L'Oréal,Biotherm,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Biotherm.png
-L'Oréal,Cacharel,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Cacharel.png
-L'Oréal,Cera Ve,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Cera%20Ve.png
-L'Oréal,Dark and Lovely,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Dark%20and%20Lovely.png
-L'Oréal,Decléor,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Decl%C3%A9or.png
-L'Oréal,Diesel,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Diesel.png
-L'Oréal,Essie,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Essie.png
-L'Oréal,Garnier,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Garnier.png
-L'Oréal,Giorgio Armani,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Giorgio%20Armani.png
-L'Oréal,Helena Rubinstein,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Helena%20Rubinstein.png
-L'Oréal,It Cosmetics,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/It%20Cosmetics.png
-L'Oréal,Kiehl's,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Kiehl's.png
-L'Oréal,Kérastase,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/K%C3%A9rastase.png
-L'Oréal,La Roche Posay,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/La%20Roche%20Posay.png
-L'Oréal,Lancôme,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Lanc%C3%B4me.png
-L'Oréal,Magic Mask,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Magic%20Mask.png
-L'Oréal,Matrix,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Matrix.png
-L'Oréal,Maybelline,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Maybelline.png
-L'Oréal,Mixa,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Mixa.png
-L'Oréal,Mugler,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Mugler.png
-L'Oréal,NYX,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/NYX.png
-L'Oréal,Niely,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Niely.png
-L'Oréal,Prada,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Prada.png
-L'Oréal,Pureology,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Pureology.png
-L'Oréal,Ralph Lauren,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Ralph%20Lauren.png
-L'Oréal,Redken,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Redken.png
-L'Oréal,Shu Uemura,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Shu%20Uemura.png
-L'Oréal,Skin Ceuticals,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Skin%20Ceuticals.png
-L'Oréal,Urban Decay,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Urban%20Decay.png
-L'Oréal,Valentino,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Valentino.png
-L'Oréal,Vichy,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Vichy.png
-L'Oréal,Viktor % Rolf,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Viktor%20%26%20Rolf.png
-L'Oréal,YueSai,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/YueSai.png
-L'Oréal,Yves Saint Laurent,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Yves%20Saint%20Laurent.png
+L'Oréal,3CE,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/3CE.png^
+L'Oréal,Atelier Cologne,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Atelier%20Cologne.png^
+L'Oréal,Azzaro,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Azzaro.png^
+L'Oréal,Biotherm,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Biotherm.png^
+L'Oréal,Cacharel,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Cacharel.png^
+L'Oréal,Cera Ve,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Cera%20Ve.png^
+L'Oréal,Dark and Lovely,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Dark%20and%20Lovely.png^
+L'Oréal,Decléor,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Decl%C3%A9or.png^
+L'Oréal,Diesel,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Diesel.png^
+L'Oréal,Essie,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Essie.png^
+L'Oréal,Garnier,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Garnier.png^
+L'Oréal,Giorgio Armani,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Giorgio%20Armani.png^
+L'Oréal,Helena Rubinstein,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Helena%20Rubinstein.png^
+L'Oréal,It Cosmetics,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/It%20Cosmetics.png^
+L'Oréal,Kiehl's,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Kiehl's.png^
+L'Oréal,Kérastase,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/K%C3%A9rastase.png^
+L'Oréal,La Roche Posay,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/La%20Roche%20Posay.png^
+L'Oréal,Lancôme,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Lanc%C3%B4me.png^
+L'Oréal,Magic Mask,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Magic%20Mask.png^
+L'Oréal,Matrix,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Matrix.png^
+L'Oréal,Maybelline,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Maybelline.png^
+L'Oréal,Mixa,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Mixa.png^
+L'Oréal,Mugler,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Mugler.png^
+L'Oréal,NYX,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/NYX.png^
+L'Oréal,Niely,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Niely.png^
+L'Oréal,Prada,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Prada.png^
+L'Oréal,Pureology,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Pureology.png^
+L'Oréal,Ralph Lauren,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Ralph%20Lauren.png^
+L'Oréal,Redken,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Redken.png^
+L'Oréal,Shu Uemura,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Shu%20Uemura.png^
+L'Oréal,Skin Ceuticals,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Skin%20Ceuticals.png^
+L'Oréal,Urban Decay,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Urban%20Decay.png^
+L'Oréal,Valentino,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Valentino.png^
+L'Oréal,Vichy,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Vichy.png^
+L'Oréal,Viktor % Rolf,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Viktor%20%26%20Rolf.png^
+L'Oréal,YueSai,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/YueSai.png^
+L'Oréal,Yves Saint Laurent,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/L'Or%C3%A9al/Yves%20Saint%20Laurent.png^
 
-Revlon,Alfred Sung,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Alfred%20Sung.png
-Revlon,All Saints,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/All%20Saints.png
-Revlon,Almay,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Almay.png
-Revlon,American Crew,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/American%20Crew.png
-Revlon,Britney Spears,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Britney%20Spears%20Fragrance.png
-Revlon,CND,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/CND.png
-Revlon,Charlie,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Charlie.png
-Revlon,Christina Aguilera,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Christina%20Aguilera%20Fragrance.png
-Revlon,Creme of Nature,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Creme%20of%20Nature.png
-Revlon,Curve,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Curve.png
-Revlon,Cutex,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Cutex.png
-Revlon,Dfi,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Dfi.png
-Revlon,Ed Hardy,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Ed%20Hardy.png
-Revlon,Eksperience,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Eksperience.png
-Revlon,Elizabeth Adren,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Elizabeth%20Adren.png
-Revlon,Flesh,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Flesh.png
-Revlon,Gatineau,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Gatineau.png
-Revlon,Giorgio,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Giorgio.png
-Revlon,Grey Flannel,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Grey%20Flannel.png
-Revlon,Halston,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Halston.png
-Revlon,Intercosmo,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Intercosmo.png
-Revlon,Jean Nate,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Jean%20Nate.png
-Revlon,Jennifer Aniston,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Jennifer%20Aniston.png
-Revlon,John Varvatos,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/John%20Varvatos.png
-Revlon,Juicy Couture,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Juicy%20Couture.png
-Revlon,Lucky Brand,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Lucky%20Brand.png
-Revlon,Mariah Carey,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Mariah%20Carey.png
-Revlon,Mitchum,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Mitchum.png
-Revlon,Natural Honey,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Natural%20Honey.png
-Revlon,Orofluido,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Orofluido.png
-Revlon,Pure Ice,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Pure%20Ice.png
-Revlon,Sinful Colors,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Sinful%20Colors.png
-Revlon,The Elizabeth Taylor,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/The%20Elizabeth%20Taylor.png
-Revlon,Wild Fox,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Wild%20Fox.png
+Revlon,Alfred Sung,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Alfred%20Sung.png^
+Revlon,All Saints,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/All%20Saints.png^
+Revlon,Almay,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Almay.png^
+Revlon,American Crew,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/American%20Crew.png^
+Revlon,Britney Spears,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Britney%20Spears%20Fragrance.png^
+Revlon,CND,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/CND.png^
+Revlon,Charlie,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Charlie.png^
+Revlon,Christina Aguilera,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Christina%20Aguilera%20Fragrance.png^
+Revlon,Creme of Nature,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Creme%20of%20Nature.png^
+Revlon,Curve,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Curve.png^
+Revlon,Cutex,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Cutex.png^
+Revlon,Dfi,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Dfi.png^
+Revlon,Ed Hardy,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Ed%20Hardy.png^
+Revlon,Eksperience,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Eksperience.png^
+Revlon,Elizabeth Adren,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Elizabeth%20Adren.png^
+Revlon,Flesh,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Flesh.png^
+Revlon,Gatineau,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Gatineau.png^
+Revlon,Giorgio,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Giorgio.png^
+Revlon,Grey Flannel,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Grey%20Flannel.png^
+Revlon,Halston,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Halston.png^
+Revlon,Intercosmo,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Intercosmo.png^
+Revlon,Jean Nate,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Jean%20Nate.png^
+Revlon,Jennifer Aniston,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Jennifer%20Aniston.png^
+Revlon,John Varvatos,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/John%20Varvatos.png^
+Revlon,Juicy Couture,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Juicy%20Couture.png^
+Revlon,Lucky Brand,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Lucky%20Brand.png^
+Revlon,Mariah Carey,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Mariah%20Carey.png^
+Revlon,Mitchum,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Mitchum.png^
+Revlon,Natural Honey,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Natural%20Honey.png^
+Revlon,Orofluido,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Orofluido.png^
+Revlon,Pure Ice,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Pure%20Ice.png^
+Revlon,Sinful Colors,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Sinful%20Colors.png^
+Revlon,The Elizabeth Taylor,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/The%20Elizabeth%20Taylor.png^
+Revlon,Wild Fox,https://raw.githubusercontent.com/midoen96/buyalize/main/beauty/subbrands/Revlon/Wild%20Fox.png^
