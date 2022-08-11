@@ -1,40 +1,40 @@
-Henkel,Clin,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Clin.png\n
-Henkel,Combat,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Combat.png\n
-Henkel,Dac,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Dac.png\n
-Henkel,Der General,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Der%20General.png\n
-Henkel,Dixi,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Dixi.png\n
-Henkel,Iba,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Iba.png\n
-Henkel,Lysoform,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Lysoform.png\n
-Henkel,Persil,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Persil.png\n
-Henkel,Perwoll,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Perwoll.png\n
-Henkel,Pril,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Pril.png\n
-Henkel,Renuzit,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Renuzit.png\n
-Henkel,Somat,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Somat.png\n
-Henkel,Vernel,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Vernel.png\n
-Henkel,Vigor,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Vigor.png\n
+Henkel,Clin,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Clin.png^
+Henkel,Combat,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Combat.png^
+Henkel,Dac,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Dac.png^
+Henkel,Der General,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Der%20General.png^
+Henkel,Dixi,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Dixi.png^
+Henkel,Iba,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Iba.png^
+Henkel,Lysoform,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Lysoform.png^
+Henkel,Persil,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Persil.png^
+Henkel,Perwoll,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Perwoll.png^
+Henkel,Pril,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Pril.png^
+Henkel,Renuzit,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Renuzit.png^
+Henkel,Somat,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Somat.png^
+Henkel,Vernel,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Vernel.png^
+Henkel,Vigor,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Henkel/Vigor.png^
 
-Kimberly Clark,Andrex,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Andrex.png\n
-Kimberly Clark,Camelia,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Camelia.png\n
-Kimberly Clark,Cottonelle,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Cottonelle.png\n
-Kimberly Clark,Depend,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Depend.png\n
-Kimberly Clark,Dry Nites,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Dry%20Nites.png\n
-Kimberly Clark,Good Nites,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Good%20Nites.png\n
-Kimberly Clark,Green Finger,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Green%20Finger.png\n
-Kimberly Clark,Hakle,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Hakle.png\n
-Kimberly Clark,Huggies,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Huggies.png\n
-Kimberly Clark,Intimus,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Intimus.png\n
-Kimberly Clark,Kimtech,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Kimtech.png\n
-Kimberly Clark,Kleen Bebé,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Kleen%20Beb%C3%A9.png\n
-Kimberly Clark,Kleenex,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Kleenex.png\n
-Kimberly Clark,Kleenguard,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Kleenguard.png\n
-Kimberly Clark,Kotex,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Kotex.png\n
-Kimberly Clark,Neve,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Neve.png\n
-Kimberly Clark,Page,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Page.png\n
-Kimberly Clark,Plenitud,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Plenitud.png\n
-Kimberly Clark,Poise,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Poise.png\n
-Kimberly Clark,Pull.Ups,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Pull.Ups.png\n
-Kimberly Clark,Scott,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Scott.png\n
-Kimberly Clark,Tela,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Tela.png\n
-Kimberly Clark,Viva,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Viva.png\n
-Kimberly Clark,Wonder Soft,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Wonder%20Soft.png\n
-Kimberly Clark,Wyp All,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Wyp%20All.png\n
+Kimberly Clark,Andrex,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Andrex.png^
+Kimberly Clark,Camelia,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Camelia.png^
+Kimberly Clark,Cottonelle,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Cottonelle.png^
+Kimberly Clark,Depend,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Depend.png^
+Kimberly Clark,Dry Nites,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Dry%20Nites.png^
+Kimberly Clark,Good Nites,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Good%20Nites.png^
+Kimberly Clark,Green Finger,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Green%20Finger.png^
+Kimberly Clark,Hakle,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Hakle.png^
+Kimberly Clark,Huggies,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Huggies.png^
+Kimberly Clark,Intimus,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Intimus.png^
+Kimberly Clark,Kimtech,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Kimtech.png^
+Kimberly Clark,Kleen Bebé,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Kleen%20Beb%C3%A9.png^
+Kimberly Clark,Kleenex,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Kleenex.png^
+Kimberly Clark,Kleenguard,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Kleenguard.png^
+Kimberly Clark,Kotex,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Kotex.png^
+Kimberly Clark,Neve,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Neve.png^
+Kimberly Clark,Page,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Page.png^
+Kimberly Clark,Plenitud,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Plenitud.png^
+Kimberly Clark,Poise,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Poise.png^
+Kimberly Clark,Pull.Ups,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Pull.Ups.png^
+Kimberly Clark,Scott,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Scott.png^
+Kimberly Clark,Tela,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Tela.png^
+Kimberly Clark,Viva,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Viva.png^
+Kimberly Clark,Wonder Soft,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Wonder%20Soft.png^
+Kimberly Clark,Wyp All,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Wyp%20All.png^
