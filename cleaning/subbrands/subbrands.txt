@@ -38,3 +38,59 @@ Kimberly Clark,Tela,https://raw.githubusercontent.com/midoen96/buyalize/main/cle
 Kimberly Clark,Viva,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Viva.png^
 Kimberly Clark,Wonder Soft,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Wonder%20Soft.png^
 Kimberly Clark,Wyp All,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Kimberly%20Clark/Wyp%20All.png^
+
+P&G,Align,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Align.png^
+P&G,All Good,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/All%20Good.png^
+P&G,Always,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Always.png^
+P&G,Ambi Pur,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Ambi%20Pur.png^
+P&G,Ariel,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Ariel.png^
+P&G,Aussie,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Aussie.png^
+P&G,Bounce,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Bounce.png^
+P&G,Bounty,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Bounty.png^
+P&G,Braun,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Braun.png^
+P&G,Cascade,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Cascade.png^
+P&G,Charmin,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Charmin.png^
+P&G,Cheer,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Cheer.png^
+P&G,Clearblue,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Clearblue.png^
+P&G,Crest,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Crest.png^
+P&G,Dawn,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Dawn.png^
+P&G,Downy,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Downy.png^
+P&G,Dreft,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Dreft.png^
+P&G,Era,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Era.png^
+P&G,Febreze,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Febreze.png^
+P&G,Fixodent,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Fixodent.png^
+P&G,Gain,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Gain.png^
+P&G,Gillette,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Gillette.png^
+P&G,Head & Shoulders,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Head%20%26%20Shoulders.png^
+P&G,Herbal Essences,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Herbal%20Essences.png^
+P&G,Ivory,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Ivory.png^
+P&G,Joy & Glee,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Joy%20%26%20Glee.png^
+P&G,Just,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Just.png^
+P&G,L,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/L.png^
+P&G,Luvs,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Luvs.png^
+P&G,Meta Mucil,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Meta%20Mucil.png^
+P&G,Microban,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Microban.png^
+P&G,Mr. Clean,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Mr.%20Clean.png^
+P&G,My Black is Beautiful,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/My%20Black%20is%20Beautiful.png^
+P&G,Native,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Native.png^
+P&G,Olay,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Olay.png^
+P&G,Old Spice,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Old%20Spice.png^
+P&G,Oral-B,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Oral-B.png^
+P&G,Pampers,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Pampers.png^
+P&G,Pantene,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Pantene.png^
+P&G,Pepto Bismol,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Pepto%20Bismol.png^
+P&G,Prilosec,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Prilosec.png^
+P&G,Puffs,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Puffs.png^
+P&G,Rindex,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Rindex.png^
+P&G,Safeguard,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Safeguard.png^
+P&G,Salvo,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Salvo.png^
+P&G,Scope,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Scope.png^
+P&G,Secret,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Secret.png^
+P&G,Snowberry,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Snowberry.png^
+P&G,Swiffer,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Swiffer.png^
+P&G,Tampax,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Tampax.png^
+P&G,The Art of Shaving,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/The%20Art%20of%20Shaving.png^
+P&G,Tide,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Tide.png^
+P&G,Vicks,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Vicks.png^
+P&G,Zevo,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Zevo.png^
+P&G,Zzzquil,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Zzzquil.png^
