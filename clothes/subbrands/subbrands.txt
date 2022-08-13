@@ -1,0 +1,59 @@
+Delta Galil,7 For All Mankind,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/7%20For%20All%20Mankind.png^
+Delta Galil,Athena,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Athena.png^
+Delta Galil,Bon Ton,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Bon%20Ton.png^
+Delta Galil,Calvin Klein,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Calvin%20Klein.png^
+Delta Galil,Columbia,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Columbia.png^
+Delta Galil,Converse,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Converse.png^
+Delta Galil,DeMillus,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/DeMillus.png^
+Delta Galil,Disney Shop,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Disney%20Shop.png^
+Delta Galil,Ella Moss,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Ella%20Moss.png^
+Delta Galil,Eminence,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Eminence.png^
+Delta Galil,Etam,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Etam.png^
+Delta Galil,Fix,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Fix.png^
+Delta Galil,Hema,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Hema.png^
+Delta Galil,Hunkemoller,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Hunkemoller.png^
+Delta Galil,JCPenney,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/JCPenney.png^
+Delta Galil,Juicy Couture,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Juicy%20Couture.png^
+Delta Galil,Karen Neuburger,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Karen%20Neuburger.png^
+Delta Galil,Kohl's,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Kohl's.png^
+Delta Galil,Lacoste,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Lacoste.png^
+Delta Galil,Liabel,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Liabel.png^
+Delta Galil,Lululemon,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Lululemon.png^
+Delta Galil,Mack Weldon,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Mack%20Weldon.png^
+Delta Galil,Macy's,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Macy's.png^
+Delta Galil,Maidenform,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Maidenform.png^
+Delta Galil,Marc O'Polo,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Marc%20O'Polo.png^
+Delta Galil,Marks & Spencer,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Marks%20%26%20Spencer.png^
+Delta Galil,Nearly Nude,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Nearly%20Nude.png^
+Delta Galil,Next,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Next.png^
+Delta Galil,Nici,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Nici.png^
+Delta Galil,Nike,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Nike.png^
+Delta Galil,Nordstrom,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Nordstrom.png^
+Delta Galil,Odlo,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Odlo.png^
+Delta Galil,Original Penguin,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Original%20Penguin.png^
+Delta Galil,P. J. Salvage,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/P.%20J.%20Salvage.png^
+Delta Galil,Paul Frank,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Paul%20Frank.png^
+Delta Galil,Pei Perry Ellis,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Pei%20Perry%20Ellis.png^
+Delta Galil,Prima Donna,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Prima%20Donna.png^
+Delta Galil,Primark,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Primark.png^
+Delta Galil,Puma,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Puma.png^
+Delta Galil,Sam's Club,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Sam's%20Club.png^
+Delta Galil,Schiesser,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Schiesser.png^
+Delta Galil,Spanx,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Spanx.png^
+Delta Galil,Splendid,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Splendid.png^
+Delta Galil,Sport Master,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Sport%20Master.png^
+Delta Galil,Sweaty Betty,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Sweaty%20Betty.png^
+Delta Galil,Target,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Target.png^
+Delta Galil,Tboe,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Tboe.png^
+Delta Galil,Ted Baker,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Ted%20Baker.png^
+Delta Galil,Tesco,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Tesco.png^
+Delta Galil,Tommy Hilfiger,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Tommy%20Hilfiger.png^
+Delta Galil,Triumph,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Triumph.png^
+Delta Galil,Under Armour,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Under%20Armour.png^
+Delta Galil,United Colors of Benetton,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/United%20Colors%20of%20Benetton.png^
+Delta Galil,Victoria's Secret,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Victoria's%20Secret.png^
+Delta Galil,Wacoal Corp,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Wacoal%20Corp.png^
+Delta Galil,Walmart,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Walmart.png^
+Delta Galil,Wilson,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Wilson.png^
+Delta Galil,Wolf Lingerie,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Wolf%20Lingerie.png^
+Delta Galil,Zalando,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Zalando.png^
