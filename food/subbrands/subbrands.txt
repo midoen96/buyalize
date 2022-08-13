@@ -1,1 +1,27 @@
-Coca Cola,AdeS,https://github.com/midoen96/buyalize/raw/main/food/subbrands/CocaCola/Ades.png
+Coca Cola,AdeS,https://github.com/midoen96/buyalize/raw/main/food/subbrands/CocaCola/Ades.png^
+Coca Cola,Appletiser,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Appletiser.png^
+Coca Cola,Aquarius,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Aquarius.png^
+Coca Cola,Barq's,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Barq's.png^
+Coca Cola,Ciel,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Ciel.png^
+Coca Cola,Costa Coffee,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Costa%20Coffee.png^
+Coca Cola,Dasani,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Dasani.png^
+Coca Cola,Dogadan,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Dogadan.png^
+Coca Cola,Fairlife,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Fairlife.png^
+Coca Cola,Fanta,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Fanta.png^
+Coca Cola,Fresca,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Fresca.png^
+Coca Cola,Fuze Tea,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Fuze%20Tea.png^
+Coca Cola,Georgia,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Georgia.png^
+Coca Cola,Gold Peak Tea,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Gold%20Peak%20Tea.png^
+Coca Cola,Honest Tea,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Honest%20Tea.png^
+Coca Cola,I Lohas いろはす,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/I%20Lohas.png^
+Coca Cola,Innocent,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Innocent.png^
+Coca Cola,Minute Maid,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Minute%20Maid.png^
+Coca Cola,Peace Tea,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Peace%20Tea.png^
+Coca Cola,Powerade,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Powerade.png^
+Coca Cola,Schweppes,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Schweppes.png^
+Coca Cola,Simply,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Simply.png^
+Coca Cola,Smart Water,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Smart%20Water.png^
+Coca Cola,Sprite,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Sprite.png^
+Coca Cola,Topo Chico,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Topo%20Chico.png^
+Coca Cola,Vitamin Water,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Vitamin%20Water.png^
+Coca Cola,綾鷹（あやたか）Aya Taka,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/綾鷹（あやたか）.png^
