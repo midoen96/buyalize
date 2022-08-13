@@ -57,3 +57,7 @@ Delta Galil,Walmart,https://raw.githubusercontent.com/midoen96/buyalize/main/clo
 Delta Galil,Wilson,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Wilson.png^
 Delta Galil,Wolf Lingerie,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Wolf%20Lingerie.png^
 Delta Galil,Zalando,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/Delta%20Galil/Zalando.png^
+
+L'brands,Bath & Body Works,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/L'brands/Bath%20%26%20Body%20Works.png^
+L'brands,Pink Victoria's Secret,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/L'brands/Pink%20Victoria's%20Secret.png^
+L'brands,Victoria's Secret,https://raw.githubusercontent.com/midoen96/buyalize/main/clothes/subbrands/L'brands/Victoria's%20Secret.png^
