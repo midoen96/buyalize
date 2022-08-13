@@ -94,3 +94,21 @@ P&G,Tide,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbr
 P&G,Vicks,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Vicks.png^
 P&G,Zevo,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Zevo.png^
 P&G,Zzzquil,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/P%26G/Zzzquil.png^
+
+Unilever,Ala,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Unilever/Ala.png^
+Unilever,Biotex,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Unilever/Biotex.png^
+Unilever,Blueair,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Unilever/Blueair.png^
+Unilever,Brilhante,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Unilever/Brilhante.png^
+Unilever,Cif,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Unilever/Cif.png^
+Unilever,Comfort,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Unilever/Comfort.png^
+Unilever,Coral,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Unilever/Coral.png^
+Unilever,Domestos,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Unilever/Domestos.png^
+Unilever,Drive,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Unilever/Drive.png^
+Unilever,Duschdas,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Unilever/Duschdas.png^
+Unilever,Jif,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Unilever/Jif.png^
+Unilever,Omo,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Unilever/Omo.png^
+Unilever,Persil,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Unilever/Persil.png^
+Unilever,Radiant,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Unilever/Radiant.png^
+Unilever,Sunlight,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Unilever/Sunlight.png^
+Unilever,Surf,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Unilever/Surf.png^
+Unilever,The Laundress,https://raw.githubusercontent.com/midoen96/buyalize/main/cleaning/subbrands/Unilever/The%20Laundress.png^
