@@ -13,7 +13,7 @@ Coca Cola,Fuze Tea,https://raw.githubusercontent.com/midoen96/buyalize/main/food
 Coca Cola,Georgia,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Georgia.png^
 Coca Cola,Gold Peak Tea,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Gold%20Peak%20Tea.png^
 Coca Cola,Honest Tea,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Honest%20Tea.png^
-Coca Cola,I Lohas いろはす,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/I%20Lohas.png^
+Coca Cola,I Lohasいろはす,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/I%20Lohas.png^
 Coca Cola,Innocent,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Innocent.png^
 Coca Cola,Minute Maid,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Minute%20Maid.png^
 Coca Cola,Peace Tea,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Peace%20Tea.png^
@@ -24,4 +24,4 @@ Coca Cola,Smart Water,https://raw.githubusercontent.com/midoen96/buyalize/main/f
 Coca Cola,Sprite,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Sprite.png^
 Coca Cola,Topo Chico,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Topo%20Chico.png^
 Coca Cola,Vitamin Water,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Vitamin%20Water.png^
-Coca Cola,綾鷹（あやたか）Aya Taka,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/綾鷹（あやたか）.png^
+Coca Cola,AyaTaka綾鷹(あやたか),https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/綾鷹（あやたか）.png^
