@@ -25,3 +25,59 @@ Coca Cola,Sprite,https://raw.githubusercontent.com/midoen96/buyalize/main/food/s
 Coca Cola,Topo Chico,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Topo%20Chico.png^
 Coca Cola,Vitamin Water,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Vitamin%20Water.png^
 Coca Cola,AyaTaka綾鷹(あやたか),https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/綾鷹（あやたか）.png^
+
+Danone,Actimel,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Actimel.png^
+Danone,Alpro,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Alpro.png^
+Danone,Alsafi,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Alsafi.png^
+Danone,Aptamil,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Aptamil.png^
+Danone,Aqua,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Aqua.png^
+Danone,Aqua D'Or,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Aqua%20D'Or.png^
+Danone,Babynov,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Babynov.png^
+Danone,Bagley,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Bagley.png^
+Danone,Blédina,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Blédina.png^
+Danone,Bonafont,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Bonafont.png^
+Danone,Brookside,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Brookside.png^
+Danone,Centrale,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Centrale.png^
+Danone,Comlan,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Comlan.png^
+Danone,Cultured Snacking,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Cultured%20Snacking.png^
+Danone,Damavand,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Damavand.png^
+Danone,Danao,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Danao.png^
+Danone,Danette,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Danette.png^
+Danone,Danonino,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Danonino.png^
+Danone,Delight,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Delight.png^
+Danone,Délice,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/D%C3%A9lice.png^
+Danone,Evian,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Evian.png^
+Danone,Fan Milk,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Fan%20Milk.png^
+Danone,Font Vella,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Font%20Vella.png^
+Danone,Forager,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Forager.png^
+Danone,Halayeb,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Halayeb.png^
+Danone,Harmless Harvest,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Harmless%20Harvest.png^
+Danone,Harrogate,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Harrogate.png^
+Danone,Hayat,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Hayat.png^
+Danone,Horizon,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Horizon.png^
+Danone,Les Prés Rent Bio,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Les%20Pr%C3%A9s%20Rent%20Bio.png^
+Danone,Mayo,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Mayo.png^
+Danone,Michel et Augustin,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Michel%20et%20Augustin.png^
+Danone,Milupa,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Milupa.png^
+Danone,Numil,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Numil.png^
+Danone,Nutricia,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Nutricia.png^
+Danone,Oikos,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Oikos.png^
+Danone,Proviva,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Proviva.png^
+Danone,Real Food,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Real%20Food.png^
+Danone,Salus,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Salus.png^
+Danone,Sarihusada,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Sarihusada.png^
+Danone,Silk,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Silk.png^
+Danone,Sirma,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Sirma.png^
+Danone,Thirsty Planet,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Thirsty%20Planet.png^
+Danone,Vega,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Vega.png^
+Danone,Villa del Sur,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Villa%20del%20Sur.png^
+Danone,Villavicencio,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Villavicencio.png^
+Danone,Volvic,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Volvic.png^
+Danone,Wallaby,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Wallaby.png^
+Danone,Yakult,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Yakult.png^
+Danone,YoCream,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/YoCream.png^
+Danone,YoCrunch,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/YoCrunch.png^
+Danone,Yooji,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Yooji.png^
+Danone,Zywiec Zdrój,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Zywiec%20Zdr%C3%B3j.png^
+Danone,Простоквашино,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Простоквашино.png^
+Danone,Mizone脉动,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/脉动.png^
