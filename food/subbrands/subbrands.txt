@@ -1,6 +1,7 @@
 Coca Cola,AdeS,https://github.com/midoen96/buyalize/raw/main/food/subbrands/CocaCola/Ades.png^
 Coca Cola,Appletiser,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Appletiser.png^
 Coca Cola,Aquarius,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Aquarius.png^
+Coca Cola,AyaTaka綾鷹(あやたか),https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/綾鷹（あやたか）.png^
 Coca Cola,Barq's,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Barq's.png^
 Coca Cola,Ciel,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Ciel.png^
 Coca Cola,Costa Coffee,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Costa%20Coffee.png^
@@ -24,7 +25,6 @@ Coca Cola,Smart Water,https://raw.githubusercontent.com/midoen96/buyalize/main/f
 Coca Cola,Sprite,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Sprite.png^
 Coca Cola,Topo Chico,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Topo%20Chico.png^
 Coca Cola,Vitamin Water,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/Vitamin%20Water.png^
-Coca Cola,AyaTaka綾鷹(あやたか),https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/CocaCola/綾鷹（あやたか）.png^
 
 Danone,Actimel,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Actimel.png^
 Danone,Alpro,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Alpro.png^
@@ -59,6 +59,7 @@ Danone,Les Prés Rent Bio,https://raw.githubusercontent.com/midoen96/buyalize/ma
 Danone,Mayo,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Mayo.png^
 Danone,Michel et Augustin,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Michel%20et%20Augustin.png^
 Danone,Milupa,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Milupa.png^
+Danone,Mizone脉动,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/脉动.png^
 Danone,Numil,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Numil.png^
 Danone,Nutricia,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Nutricia.png^
 Danone,Oikos,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Oikos.png^
@@ -80,4 +81,3 @@ Danone,YoCrunch,https://raw.githubusercontent.com/midoen96/buyalize/main/food/su
 Danone,Yooji,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Yooji.png^
 Danone,Zywiec Zdrój,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Zywiec%20Zdr%C3%B3j.png^
 Danone,Простоквашино,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Простоквашино.png^
-Danone,Mizone脉动,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/脉动.png^
