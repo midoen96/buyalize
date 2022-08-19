@@ -81,3 +81,22 @@ Danone,YoCrunch,https://raw.githubusercontent.com/midoen96/buyalize/main/food/su
 Danone,Yooji,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Yooji.png^
 Danone,Zywiec Zdrój,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Zywiec%20Zdr%C3%B3j.png^
 Danone,Простоквашино,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Danone/Простоквашино.png^
+
+Fonterra,Anchor,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Anchor.png^
+Fonterra,Anlene,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Anlene.png^
+Fonterra,Anmum,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Anmum.png^
+Fonterra,Australian Dairies,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Australian%20Dairies.png^
+Fonterra,Bega,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Bega.png^
+Fonterra,Bonlac,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Bonlac.png^
+Fonterra,De Winkel,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/De%20Winkel.png^
+Fonterra,Fresh'n Fruity,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Fresh'n%20Fruity.png^
+Fonterra,Galaxy,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Galaxy.png^
+Fonterra,Kapiti,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Kapiti.png^
+Fonterra,Mainland,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Mainland.png^
+Fonterra,Mammoth Supply,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Mammoth%20Supply.png^
+Fonterra,Perfect Italiano,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Perfect%20Italiano.png^
+Fonterra,Primo,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Primo.png^
+Fonterra,Soprole,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Soprole.png^
+Fonterra,Symbio,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Symbio.png^
+Fonterra,Tip Top,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Tip%20Top.png^
+Fonterra,Western Star,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Western%20Star.png^
