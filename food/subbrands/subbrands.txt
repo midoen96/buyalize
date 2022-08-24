@@ -100,3 +100,46 @@ Fonterra,Soprole,https://raw.githubusercontent.com/midoen96/buyalize/main/food/s
 Fonterra,Symbio,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Symbio.png^
 Fonterra,Tip Top,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Tip%20Top.png^
 Fonterra,Western Star,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Fonterra/Western%20Star.png^
+
+General Mills,Annie's,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Annie's.png^
+General Mills,Betty Crocker,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Betty%20Crocker.png^
+General Mills,Bisquick,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Bisquick.png^
+General Mills,Blue Buffalo,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Blue%20Buffalo.png^
+General Mills,Bugles,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Bugles.png^
+General Mills,Cascadian Farm,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Cascadian%20Farm.png^
+General Mills,Cheerios,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Cheerios.png^
+General Mills,Chex,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Chex.png^
+General Mills,Cinnamon Toast Crunch,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Cinnamon%20Toast%20Crunch.png^
+General Mills,Count Chocula,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Count%20Chocula.png^
+General Mills,Epic,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Epic.png^
+General Mills,Fiber One,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Fiber%20One.png^
+General Mills,Food Should Taste Good,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Food%20Should%20Taste%20Good.png^
+General Mills,Gardetto's,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Gardetto's.png^
+General Mills,Gold Medal,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Gold%20Medal.png^
+General Mills,Green Giant,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Green%20Giant.png^
+General Mills,Helper,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Helper.png^
+General Mills,Häagen-Dazs,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/H%C3%A4agen-Dazs.png^
+General Mills,Immaculate,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Immaculate.png^
+General Mills,Jeno's Pizza,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Jeno's%20Pizza.png^
+General Mills,Jus.Rol,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Jus.Rol.png^
+General Mills,Kix,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Kix.png^
+General Mills,Knack & Back,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Knack%20%26%20Back.png^
+General Mills,Latina,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Latina.png^
+General Mills,Liberte Origins,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Liberte%20Origins.png^
+General Mills,Lucky Charms,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Lucky%20Charms.png^
+General Mills,Lärabar,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/L%C3%A4rabar.png^
+General Mills,Muir Glen,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Muir%20Glen.png^
+General Mills,Nature Valley,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Nature%20Valley.png^
+General Mills,Old El Paso,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Old%20El%20Paso.png^
+General Mills,Panier,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Panier.png^
+General Mills,Parampara,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Parampara.png^
+General Mills,Petits%20Filous,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Petits%20Filous.png^
+General Mills,Pillsbury,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Pillsbury.png^
+General Mills,Progresso,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Progresso.png^
+General Mills,Total,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Total.png^
+General Mills,Totino's,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Totino's.png^
+General Mills,Trix,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Trix.png^
+General Mills,Wanchai,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Wanchai.png^
+General Mills,Welch's,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Welch's.png^
+General Mills,Wheaties,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Wheaties.png^
+General Mills,Yoki,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Yoki.png^
