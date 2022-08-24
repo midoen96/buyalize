@@ -143,3 +143,7 @@ General Mills,Wanchai,https://raw.githubusercontent.com/midoen96/buyalize/main/f
 General Mills,Welch's,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Welch's.png^
 General Mills,Wheaties,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Wheaties.png^
 General Mills,Yoki,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/General%20Mills/Yoki.png^
+
+Johnson & Johnson,Benecol,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Johnson%20%26%20Johnson/Benecol.png^
+Johnson & Johnson,Lactaid,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Johnson%20%26%20Johnson/Lactaid.png^
+Johnson & Johnson,Splenda,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Johnson%20%26%20Johnson/Splenda.png^
