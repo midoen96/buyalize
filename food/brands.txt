@@ -3,7 +3,7 @@ Danone,https://github.com/midoen96/buyalize/raw/main/food/Danone.png
 Fonterra,https://github.com/midoen96/buyalize/raw/main/food/Fonterra.png
 General Mills,https://github.com/midoen96/buyalize/raw/main/food/GeneralMills.png
 Johnson & Johnson,https://github.com/midoen96/buyalize/raw/main/food/Johnson.png
-Kraft,https://github.com/midoen96/buyalize/raw/main/food/Kraft.png
+Kraft Heinz,https://github.com/midoen96/buyalize/raw/main/food/KraftHeinz.png
 Mars,https://github.com/midoen96/buyalize/raw/main/food/Mars.png
 Mondelez,https://github.com/midoen96/buyalize/raw/main/food/Mondelez.png
 Nestle,https://github.com/midoen96/buyalize/raw/main/food/Nestle.png
