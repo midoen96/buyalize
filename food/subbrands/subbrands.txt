@@ -147,3 +147,29 @@ General Mills,Yoki,https://raw.githubusercontent.com/midoen96/buyalize/main/food
 Johnson & Johnson,Benecol,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Johnson%20%26%20Johnson/Benecol.png^
 Johnson & Johnson,Lactaid,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Johnson%20%26%20Johnson/Lactaid.png^
 Johnson & Johnson,Splenda,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Johnson%20%26%20Johnson/Splenda.png^
+
+Kraft Heinz,ABC,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/ABC.png^
+Kraft Heinz,Caprisun,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Caprisun.png^
+Kraft Heinz,Classico,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Classico.png^
+Kraft Heinz,Cracker Barrel,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Cracker%20Barrel.png^
+Kraft Heinz,Golden Circle,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Golden%20Circle.png^
+Kraft Heinz,Grey Poupon,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Grey%20Poupon.png^
+Kraft Heinz,Heinz,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Heinz.png^
+Kraft Heinz,Honig,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Honig.png^
+Kraft Heinz,Jell-O,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Jell-O.png^
+Kraft Heinz,Kool-Aid,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Kool-Aid.png^
+Kraft Heinz,Kraft,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Kraft.png^
+Kraft Heinz,Lunchables,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Lunchables.png^
+Kraft Heinz,Master,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Master.png^
+Kraft Heinz,Maxwell House,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Maxwell%20House.png^
+Kraft Heinz,Ore-Ida,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Ore-Ida.png^
+Kraft Heinz,Oscar Mayer,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Oscar%20Mayer.png^
+Kraft Heinz,Philadelphia,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Philadelphia.png^
+Kraft Heinz,Planters,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Planters.png^
+Kraft Heinz,Plasmon,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Plasmon.png^
+Kraft Heinz,Pudliszki,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Pudliszki.png^
+Kraft Heinz,Quero,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Quero.png^
+Kraft Heinz,Smart Ones,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Smart%20Ones.png^
+Kraft Heinz,Velveeta,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Velveeta.png^
+Kraft Heinz,Wattie's,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Wattie's.png^
+Kraft Heinz,Weight Watchers,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Weight%20Watchers.png^
