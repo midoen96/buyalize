@@ -160,7 +160,7 @@ Kraft Heinz,Jell-O,https://raw.githubusercontent.com/midoen96/buyalize/main/food
 Kraft Heinz,Kool-Aid,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Kool-Aid.png^
 Kraft Heinz,Kraft,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Kraft.png^
 Kraft Heinz,Lunchables,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Lunchables.png^
-Kraft Heinz,Master,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Master.png^
+Kraft Heinz,味事达Master,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Master.png^
 Kraft Heinz,Maxwell House,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Maxwell%20House.png^
 Kraft Heinz,Ore-Ida,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Ore-Ida.png^
 Kraft Heinz,Oscar Mayer,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Oscar%20Mayer.png^
