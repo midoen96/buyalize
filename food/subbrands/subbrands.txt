@@ -173,3 +173,57 @@ Kraft Heinz,Smart Ones,https://raw.githubusercontent.com/midoen96/buyalize/main/
 Kraft Heinz,Velveeta,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Velveeta.png^
 Kraft Heinz,Wattie's,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Wattie's.png^
 Kraft Heinz,Weight Watchers,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Kraft%20Heinz/Weight%20Watchers.png^
+
+Mars,3 Musketeers,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/3%20Musketeers.png^
+Mars,5,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/5.png^
+Mars,Altoids,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Altoids.png^
+Mars,American Heritage,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/American%20Heritage.png^
+Mars,Amicelli,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Amicelli.png^
+Mars,Api,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Api.png^
+Mars,Aquarian,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Aquarian.png^
+Mars,Balisto,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Balisto.png^
+Mars,Ben's Original,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Ben's%20Original.png^
+Mars,Buckeye Nutrition,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Buckeye%20Nutrition.png^
+Mars,Cesar,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Cesar.png^
+Mars,Dolmio,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Dolmio.png^
+Mars,Dove,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Dove.png^
+Mars,Dreamies,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Dreamies.png^
+Mars,Ebly,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Ebly.png^
+Mars,Eclipse,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Eclipse.png^
+Mars,Ethel M,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Ethel%20M.png^
+Mars,Eukanuba,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Eukanuba.png^
+Mars,Extra,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Extra.png^
+Mars,Galaxy,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Galaxy.png^
+Mars,Goodness Knows,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Goodness%20Knows.png^
+Mars,Greenies,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Greenies.png^
+Mars,Hubba Bubba,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Hubba%20Bubba.png^
+Mars,Iams,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Iams.png^
+Mars,Juicy Fruit,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Juicy%20Fruit.png^
+Mars,Kan Tong,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Kan%20Tong.png^
+Mars,Lifesaver,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Lifesaver.png^
+Mars,M&M's,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/M%26M's.png^
+Mars,Maltesers,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Maltesers.png^
+Mars,Mars Wrigley,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Mars%20Wrigley.png^
+Mars,Mars,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Mars.png^
+Mars,Master Foods,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Master%20Foods.png^
+Mars,Milky Way,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Milky%20Way.png^
+Mars,Mirácoli,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Mir%C3%A1coli.png^
+Mars,Nutro,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Nutro.png^
+Mars,Pamesello,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Pamesello.png^
+Mars,Pedigree,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Pedigree.png^
+Mars,Royal Canin,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Royal%20Canin.png^
+Mars,Royco,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Royco.png^
+Mars,Ráris,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/R%C3%A1ris.png^
+Mars,Seeds of Change,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Seeds%20of%20Change.png^
+Mars,Sheba,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Sheba.png^
+Mars,Skittles,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Skittles.png^
+Mars,Spearmint,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Spearmint.png^
+Mars,Spillers,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Spillers.png^
+Mars,Starburst,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Starburst.png^
+Mars,Suzi Wan,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Suzi%20Wan.png^
+Mars,Tasty Bite,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Tasty%20Bite.png^
+Mars,Temptations,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Temptations.png^
+Mars,Twix,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Twix.png^
+Mars,Whiskas,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Whiskas.png^
+Mars,Winergy,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Winergy.png^
+Mars,Winterfresh,https://raw.githubusercontent.com/midoen96/buyalize/main/food/subbrands/Mars/Winterfresh.png^
